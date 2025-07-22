@@ -1,3 +1,4 @@
+import { Footer } from "./footer";
 import Header from "./header";
 import Middle from "./Middle";
 
@@ -8,6 +9,8 @@ const Home = () => {
       <Header />
       {/* Middle component */}
       <Middle />
+      {/* footeer  */}
+      <Footer />
     </div>
   );
 };

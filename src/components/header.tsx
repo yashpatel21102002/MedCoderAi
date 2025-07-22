@@ -20,7 +20,7 @@ const Header = () => {
           {/* right section of the header */}
           <div>
             <p className="text-sm text-gray-500">
-              HIPAA Compliant • Secure Processing
+              For Demo purpose only
             </p>
           </div>
         </div>
