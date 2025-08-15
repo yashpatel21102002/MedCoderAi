@@ -13,7 +13,7 @@ export const Footer = () => {
             </span>
           </div>
           <span className="text-gray-500">
-            created by anonymous developer🔎.
+            created by Yash Patel.
           </span>
         </div>
       </div>
